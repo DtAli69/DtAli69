@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DtAli69
-- 👀 I’m interested in Web development
+- 👀 I’m interested in Web developmentand Freecad
 - 🌱 I’m currently learning everthing that is interesting for me
 - 📫 dtali69@gmail.com
 
